@@ -1,4 +1,4 @@
-# Notes-01
+# Notes-dataStructure
 
 This repository contains a collection of notes on various topics related to computer science, including data structures, algorithms, database management, object-oriented programming, and more. The notes are organized into PDFs for easy reference.
 
